@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_line - draws apmstraight linepmin the terminal
+ * print_line - draws apmstraightpmlinepmin the terminal
  * @n: number of times the character _ should be printed
  */
 void print_line(int n)
